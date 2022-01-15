@@ -1,14 +1,11 @@
-### Hi there 👋
-
-<!--
-**EmmaNGagen/EmmaNGagen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋Hello ✨
+Welcome to my git
 
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning node.js and postman
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+🎓  I’m currently studying front end development on Medieinstitutet in Stockholm
+- 🔭 I’m currently working on myJourney
+- 🌱 I’m currently learning node.js and postman in school..
+- 🤔 I’m looking for extra work
 - 📫 How to reach me: emma.n.gagen@outlook.com
-- ⚡ Fun fact: ...
--->
+my interest are
+
