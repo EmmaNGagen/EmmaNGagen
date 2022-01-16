@@ -7,5 +7,5 @@ Welcome to my git
 - 🌱 I’m currently learning node.js and postman in school..
 - 🤔 I’m looking for extra work
 - 📫 How to reach me: emma.n.gagen@outlook.com
-my interest are
+- my interest are painting, movies and food
 
