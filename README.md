@@ -1,11 +1,11 @@
 Hello I'm Emma 🌵<br>
 Welcome to my git
 
-🐲 I’m currently studying Front End Development on Medieinstitutet in Stockholm <br>
-🌱 I’m currently working part-time with CMS att Isobar Sweden Ab<br>
-🧩 I’m currently out on internship on Nordicmorning <br>
-🍀 I’m looking for a job after my graduation May 19<br>
-📟 How to reach me: emma.n.gagen@outlook.com<br>
+🐲 I’m a Marketing coordinator and a Front End Developer with love for design <br>
+🌱 I’m currently working as a It consultant at Denstu Creative Sweden and Addilon Professionals<br>
+🧩 My dream is to work with web design<br>
+🍀 I graduated in front end development on May 22 2023<br>
+📟 How to reach me: emmanikelo.web@outlook.com<br>
 <br>
 ✨My interest are ✨
 - Painting & art 🖌
