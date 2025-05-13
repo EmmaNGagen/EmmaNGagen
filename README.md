@@ -1,10 +1,8 @@
 Hello I'm Emma 🌵<br>
 Welcome to my git
 
-🐲 I’m a Marketing coordinator and a Front End Developer with love for design <br>
-🌱 I’m currently studying UX/UI-design on KYH<br>
-🧩 My dream is to work with web design<br>
-🍀 I graduated in front end development on May 22 2023<br>
+🐲 I'm a UX-designer, Marketing coordinator and Front End Developer with love for design <br>
+🧩 My dream is to work with web & design <br>
 📟 How to reach me: emmanikelo.web@outlook.com<br>
 <br>
 ✨My interest are ✨
